@@ -1,0 +1,9 @@
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice04\Practice04\bin\Debug\Practice04.exe.config
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice04\Practice04\bin\Debug\Practice04.exe
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice04\Practice04\bin\Debug\Practice04.pdb
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice04\Practice04\obj\Debug\Practice04.Form1.resources
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice04\Practice04\obj\Debug\Practice04.Form2.resources
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice04\Practice04\obj\Debug\Practice04.Properties.Resources.resources
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice04\Practice04\obj\Debug\Practice04.csproj.GenerateResource.Cache
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice04\Practice04\obj\Debug\Practice04.exe
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice04\Practice04\obj\Debug\Practice04.pdb
